@@ -24,11 +24,6 @@ namespace Servicios
             mi_archivo.WriteLine(cadena);
             mi_archivo.Close();
 
-            ////anderson porras rios
-            ///////anderson porras ruis
-            ///ahdkahsdkakdasjdhakhsdkjsadj
-
-
         }
       
     }

@@ -266,7 +266,7 @@ namespace Servicios
             return producto;
         }
 
-
+        //comentarios en los servicios
         [WebMethod]
         public string ActualizarProducto(Producto producto)
         {
