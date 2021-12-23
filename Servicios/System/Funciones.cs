@@ -23,6 +23,12 @@ namespace Servicios
             string cadena = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")+">>>"+descripcion;
             mi_archivo.WriteLine(cadena);
             mi_archivo.Close();
+
+            ////anderson porras rios
+            ///////anderson porras ruis
+            ///ahdkahsdkakdasjdhakhsdkjsadj
+
+
         }
       
     }
